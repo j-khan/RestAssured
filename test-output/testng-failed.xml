@@ -5,7 +5,7 @@
     <classes>
       <class name="com.qa.rest.test.GetCallBDD">
         <methods>
-          <include name="test_GetUser"/>
+          <include name="GetUserPostComment"/>
         </methods>
       </class> <!-- com.qa.rest.test.GetCallBDD -->
     </classes>
